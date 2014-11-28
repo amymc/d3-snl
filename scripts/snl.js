@@ -123,7 +123,7 @@ var donut_svg2 = d3.select(".awards").append("svg")
     .append("g")
       .attr("transform", "translate(" + pie_width / 2 + "," + pie_height / 2 + ")");
 
-d3.csv("../snl_data/nsadata.csv", function(error, data) {
+d3.csv("./snl_data/nsadata.csv", function(error, data) {
 
   data.forEach(function(d) {
     d.percentage = +d.percentage;
