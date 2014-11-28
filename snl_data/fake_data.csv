@@ -1,0 +1,46 @@
+key,value,date
+Rats,25078,01/01/75
+Rats,29503,01/01/80
+Rats,14130,01/01/85
+Rats,36199,01/01/90
+Rats,53323,01/01/95
+Rats,50103,01/01/00
+Rats,69259,01/01/05
+Rats,85273,01/01/10
+Rats,100103,01/01/14
+Humans,75563,01/01/75
+Humans,70639,01/01/80
+Humans,71620,01/01/85
+Humans,72564,01/01/90
+Humans,77204,01/01/95
+Humans,88278,01/01/00
+Humans,80813,01/01/05
+Humans,85133,01/01/10
+Humans,84133,01/01/14
+Prisoners,89678,01/01/75
+Prisoners,90435,01/01/80
+Prisoners,88998,01/01/85
+Prisoners,71530,01/01/90
+Prisoners,76459,01/01/95
+Prisoners,100870,01/01/00
+Prisoners,93332,01/01/05
+Prisoners,87456,01/01/10
+Prisoners,81201,01/01/14
+Drug Dealers,63410,01/01/75
+Drug Dealers,59891,01/01/80
+Drug Dealers,67289,01/01/85
+Drug Dealers,79190,01/01/90
+Drug Dealers,72313,01/01/95
+Drug Dealers,83545,01/01/00
+Drug Dealers,76398,01/01/05
+Drug Dealers,81234,01/01/10
+Drug Dealers,87856,01/01/14
+Ebola patients,46718,01/01/75
+Ebola patients,53231,01/01/80
+Ebola patients,45124,01/01/85
+Ebola patients,37891,01/01/90
+Ebola patients,42134,01/01/95
+Ebola patients,58079,01/01/00
+Ebola patients,60134,01/01/05
+Ebola patients,53483,01/01/10
+Ebola patients,61545,01/01/14
