@@ -1,5 +1,5 @@
 
-d3.csv("../snl_data/ratings.csv", type, function(error, data) {
+d3.csv("./snl_data/ratings.csv", type, function(error, data) {
 
 
   var margin = {top: 20, right: 20, bottom: 50, left: 0},
@@ -146,7 +146,7 @@ d3.csv("../snl_data/nsadata.csv", function(error, data) {
       .on('mouseout', tip1.hide);
 });
 
-d3.csv("../snl_data/snl_awards.csv", function(error, data) {
+d3.csv("./snl_data/snl_awards.csv", function(error, data) {
 
   data.forEach(function(d) {
     d.number = +d.number;
