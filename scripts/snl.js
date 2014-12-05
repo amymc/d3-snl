@@ -277,16 +277,13 @@ d3.csv("./snl_data/fake_data.csv", function(error, data) {
       mousex = d3.mouse(this);
       mousex = mousex[0];
       var invertedx = x.invert(mousex);
-      console.log(invertedx);
       //invertedx = invertedx.getMonth() + invertedx.getDate();
       invertedx = invertedx.getDate();
       var selected = (d.values);
-      console.log('this is '+ selected);
       for (var k = 0; k < selected.length; k++) {
         datearray[k] = selected[k].date
         //datearray[k] = datearray[k].getMonth() + datearray[k].getDate();
         datearray[k] = datearray[k].getDate();
-        console.log(datearray);
       }
 
 
