@@ -244,6 +244,8 @@ d3.csv("./snl_data/fake_data.csv", function(error, data) {
 
     //to generate the area
     var area = d3.svg.area()
+        //interploate constructs new data points in between each point in the array
+        .interpolate("cardinal")
         .x(function(d) { return x(d.date); })
         .y0(function(d) { return y(d.y0); })
         .y1(function(d) { return y(d.y0 + d.y); });
@@ -253,7 +255,7 @@ d3.csv("./snl_data/fake_data.csv", function(error, data) {
         .attr("height", height + margin.top + margin.bottom)
         .attr("class", "streamsvg")
         .append("g")
-          .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     //the + sign in '+d.number' is needed to coerce the type to a number
     //otherwise the values are considered strings
