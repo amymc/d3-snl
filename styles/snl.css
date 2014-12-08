@@ -79,12 +79,16 @@ text{
   margin-bottom: 27px;
 }
 
-.steam-tip{
+.streamsvg{
+  margin-top: 40px;
+}
+
+.stream-tip{
   position: absolute;
   z-index: 100;
   visibility: hidden;
   width: 50px;
-  left: 230px;
+  left: 280px;
 }
 
 .disclaimer{
