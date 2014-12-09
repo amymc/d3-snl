@@ -191,11 +191,12 @@ d3.csv("./snl_data/fake_data.csv", function(error, data) {
 
     var format = d3.time.format("%m/%d/%y");
 
-    var margin = {top: 20, right: 60, bottom: 30, left: 60};
-    var width = 1000- margin.left - margin.right;
-    var height = 400 - margin.top - margin.bottom;
+    var margin = {top: 20, right: 60, bottom: 30, left: 60},
+        width = 1000- margin.left - margin.right,
+        height = 400 - margin.top - margin.bottom;
 
-    var colorrange = [ "#82DCF6", "#68CBE0", "#4EBBCB", "#34AAB5", "#1A9AA0", "#00898A"];
+    var colorrange = [ "#82DCF6", "#68CBE0", "#4EBBCB", "#34AAB5", "#1A9AA0", "#00898A"],
+        datearray = [];
 
     var x = d3.time.scale()
         .range([0, width -  margin.left ]);
@@ -210,8 +211,6 @@ d3.csv("./snl_data/fake_data.csv", function(error, data) {
     var streamtip = d3.select(".streamgraph")
         .append("div")
         .attr("class", "stream-tip");
-
-    var datearray = [];
 
     var strokecolor = colorrange[5];
 
