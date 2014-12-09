@@ -324,7 +324,6 @@ d3.csv("./snl_data/fake_data.csv", function(error, data) {
             for (var k = 0; k < selected.length; k++) {
                 datearray[k] = selected[k].date
                 datearray[k] = datearray[k].getYear() + datearray[k].getMonth() + datearray[k].getDate();
-                console.log(datearray);
             }
             //then map the date to the corresponding data value for the series.
             mousedate = datearray.indexOf(invertedx);
