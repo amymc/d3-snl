@@ -1,46 +1,201 @@
 key,value,date
 Rats,25078,01/01/75
-Rats,29503,01/01/80
-Rats,14130,01/01/85
+Rats,25178,01/01/76
+Rats,25038,01/01/77
+Rats,25079,01/01/78
+Rats,26078,01/01/79
+Rats,27103,01/01/80
+Rats,29203,01/01/81
+Rats,29533,01/01/82
+Rats,29506,01/01/83
+Rats,27503,01/01/84
+Rats,29503,01/01/85
+Rats,14130,01/01/86
+Rats,16130,01/01/87
+Rats,14630,01/01/88
+Rats,14180,01/01/89
 Rats,36199,01/01/90
+Rats,36169,01/01/91
+Rats,33199,01/01/92
+Rats,35599,01/01/93
+Rats,36169,01/01/94
 Rats,53323,01/01/95
+Rats,53353,01/01/96
+Rats,53343,01/01/97
+Rats,53323,01/01/98
+Rats,52323,01/01/99
 Rats,50103,01/01/00
+Rats,51103,01/01/01
+Rats,50403,01/01/02
+Rats,50203,01/01/03
+Rats,51203,01/01/04
 Rats,69259,01/01/05
+Rats,69259,01/01/06
+Rats,68259,01/01/07
+Rats,66259,01/01/08
+Rats,69259,01/01/09
 Rats,85273,01/01/10
+Rats,84273,01/01/11
+Rats,84273,01/01/12
+Rats,85573,01/01/13
 Rats,100103,01/01/14
 Millionaires,75563,01/01/75
+Millionaires,75463,01/01/76
+Millionaires,72363,01/01/77
+Millionaires,75163,01/01/78
+Millionaires,75563,01/01/79
 Millionaires,70639,01/01/80
-Millionaires,71620,01/01/85
+Millionaires,70539,01/01/81
+Millionaires,70739,01/01/82
+Millionaires,70629,01/01/83
+Millionaires,70639,01/01/84
+Millionaires,71610,01/01/85
+Millionaires,71620,01/01/86
+Millionaires,71340,01/01/87
+Millionaires,71230,01/01/88
+Millionaires,71620,01/01/89
 Millionaires,72564,01/01/90
+Millionaires,72554,01/01/91
+Millionaires,72664,01/01/92
+Millionaires,72364,01/01/93
+Millionaires,72564,01/01/94
 Millionaires,77204,01/01/95
+Millionaires,77104,01/01/96
+Millionaires,77204,01/01/97
+Millionaires,77214,01/01/98
+Millionaires,77204,01/01/99
 Millionaires,88278,01/01/00
+Millionaires,88378,01/01/01
+Millionaires,88278,01/01/02
+Millionaires,82378,01/01/03
+Millionaires,88378,01/01/04
 Millionaires,80813,01/01/05
-Millionaires,85133,01/01/10
+Millionaires,80513,01/01/06
+Millionaires,80713,01/01/07
+Millionaires,80913,01/01/08
+Millionaires,80883,01/01/09
+Millionaires,85193,01/01/10
+Millionaires,85143,01/01/11
+Millionaires,85163,01/01/12
+Millionaires,85193,01/01/13
 Millionaires,84133,01/01/14
 Prisoners,89678,01/01/75
+Prisoners,89678,01/01/76
+Prisoners,89678,01/01/77
+Prisoners,89678,01/01/78
+Prisoners,89678,01/01/79
 Prisoners,90435,01/01/80
+Prisoners,90435,01/01/81
+Prisoners,90435,01/01/82
+Prisoners,90435,01/01/83
+Prisoners,90435,01/01/84
 Prisoners,88998,01/01/85
+Prisoners,88998,01/01/86
+Prisoners,88998,01/01/87
+Prisoners,88998,01/01/88
+Prisoners,88998,01/01/89
 Prisoners,71530,01/01/90
+Prisoners,71530,01/01/91
+Prisoners,71530,01/01/92
+Prisoners,71530,01/01/93
+Prisoners,71530,01/01/94
 Prisoners,76459,01/01/95
+Prisoners,76459,01/01/96
+Prisoners,76459,01/01/97
+Prisoners,76459,01/01/98
+Prisoners,76459,01/01/99
 Prisoners,100870,01/01/00
+Prisoners,100870,01/01/01
+Prisoners,100870,01/01/02
+Prisoners,100870,01/01/03
+Prisoners,100870,01/01/04
 Prisoners,93332,01/01/05
+Prisoners,93332,01/01/06
+Prisoners,93332,01/01/07
+Prisoners,93332,01/01/08
+Prisoners,87456,01/01/09
 Prisoners,87456,01/01/10
+Prisoners,87456,01/01/11
+Prisoners,87456,01/01/12
+Prisoners,87456,01/01/13
 Prisoners,81201,01/01/14
 Drug Dealers,63410,01/01/75
+Drug Dealers,63410,01/01/76
+Drug Dealers,63410,01/01/77
+Drug Dealers,63410,01/01/78
+Drug Dealers,63410,01/01/79
 Drug Dealers,59891,01/01/80
+Drug Dealers,59891,01/01/81
+Drug Dealers,59891,01/01/82
+Drug Dealers,59891,01/01/83
+Drug Dealers,59891,01/01/84
 Drug Dealers,67289,01/01/85
+Drug Dealers,67289,01/01/86
+Drug Dealers,67289,01/01/87
+Drug Dealers,67289,01/01/88
+Drug Dealers,67289,01/01/89
 Drug Dealers,79190,01/01/90
+Drug Dealers,79190,01/01/91
+Drug Dealers,79190,01/01/92
+Drug Dealers,79190,01/01/93
+Drug Dealers,79190,01/01/94
 Drug Dealers,72313,01/01/95
+Drug Dealers,72313,01/01/96
+Drug Dealers,72313,01/01/97
+Drug Dealers,72313,01/01/98
+Drug Dealers,72313,01/01/99
 Drug Dealers,83545,01/01/00
+Drug Dealers,83545,01/01/01
+Drug Dealers,83545,01/01/02
+Drug Dealers,83545,01/01/03
+Drug Dealers,83545,01/01/04
 Drug Dealers,76398,01/01/05
+Drug Dealers,76398,01/01/06
+Drug Dealers,76398,01/01/07
+Drug Dealers,76398,01/01/08
+Drug Dealers,76398,01/01/09
 Drug Dealers,81234,01/01/10
+Drug Dealers,81234,01/01/11
+Drug Dealers,81234,01/01/12
+Drug Dealers,81234,01/01/13
 Drug Dealers,87856,01/01/14
 Ebola patients,46718,01/01/75
+Ebola patients,46718,01/01/76
+Ebola patients,46718,01/01/77
+Ebola patients,46718,01/01/78
+Ebola patients,46718,01/01/79
 Ebola patients,53231,01/01/80
+Ebola patients,53231,01/01/81
+Ebola patients,53231,01/01/82
+Ebola patients,53231,01/01/83
+Ebola patients,53231,01/01/84
 Ebola patients,45124,01/01/85
+Ebola patients,45124,01/01/86
+Ebola patients,45124,01/01/87
+Ebola patients,45124,01/01/88
+Ebola patients,45124,01/01/89
 Ebola patients,37891,01/01/90
+Ebola patients,37891,01/01/91
+Ebola patients,37891,01/01/92
+Ebola patients,37891,01/01/93
+Ebola patients,37891,01/01/94
 Ebola patients,42134,01/01/95
+Ebola patients,42134,01/01/96
+Ebola patients,42134,01/01/97
+Ebola patients,42134,01/01/98
+Ebola patients,42134,01/01/99
 Ebola patients,58079,01/01/00
+Ebola patients,58079,01/01/01
+Ebola patients,58079,01/01/02
+Ebola patients,58079,01/01/03
+Ebola patients,58079,01/01/04
 Ebola patients,60134,01/01/05
+Ebola patients,60134,01/01/06
+Ebola patients,60134,01/01/07
+Ebola patients,60134,01/01/08
+Ebola patients,60134,01/01/09
 Ebola patients,53483,01/01/10
+Ebola patients,53483,01/01/11
+Ebola patients,53483,01/01/12
+Ebola patients,53483,01/01/13
 Ebola patients,61545,01/01/14
