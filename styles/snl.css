@@ -80,7 +80,7 @@ text{
 }
 
 .streamsvg{
-  margin-top: 40px;
+  margin: 40px 0;
 }
 
 .stream-tip{
@@ -91,7 +91,6 @@ text{
   left: 280px;
 }
 
-.disclaimer{
-  font-size: 12px;
-  text-align: left;
+small{
+  float: left;
 }
