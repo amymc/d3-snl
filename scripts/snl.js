@@ -19,13 +19,13 @@ d3.csv("./snl_data/ratings.csv", function(error, data) {
 
     var yAxis = d3.svg.axis()
         .scale(y)
-        .orient("left")
-        .ticks(10);
+        .orient("left");
 
     var bar_svg = d3.select(".bar-chart").append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .attr('class', 'bar-svg')
+        //'g' element groups svg shapes together
         .append("g");
 
     //create tooltip
@@ -72,10 +72,13 @@ d3.csv("./snl_data/ratings.csv", function(error, data) {
     //using 'enter' bars are created for each year
     bar_svg.selectAll(".bar")
         .data(data)
+        // new rectangle elements will be rendered for all datums which don’t yet have a matching rectangle element
         .enter().append("rect")
             .attr("class", "bar")
             .attr("x", function(d) { return x(d.year); })
             .attr("width", x.rangeBand())
+            //the origin of SVG’s coordinate system is in the top-left corner. 
+            //this positions the zero-value at the bottom of the chart, rather than the top.
             .attr("y", height)
             .attr("height",0)
             //adding tooltip on mouseover
